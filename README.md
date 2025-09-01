@@ -1,6 +1,6 @@
-# md2png
+# md-to-visual
 
-A tool for converting Markdown files to images or HTML.
+A tool for converting Markdown files to visual formats (images and HTML).
 
 [繁體中文](./README-zh.md)
 

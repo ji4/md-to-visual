@@ -1,6 +1,6 @@
-# md2png
+# md-to-visual
 
-將 Markdown 檔案轉換為圖片或 HTML 的工具。
+將 Markdown 檔案轉換為視覺化格式（圖片和 HTML）的工具。
 
 [English](./README.md)
 
