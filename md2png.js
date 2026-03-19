@@ -1,5 +1,4 @@
-// md2jpg_enhanced.js
-// 增強版 Markdown 轉 JPG 轉換器，支援高解析度輸出
+#!/usr/bin/env node
 const fs = require('fs');
 const path = require('path');
 const puppeteer = require('puppeteer');

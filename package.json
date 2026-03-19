@@ -1,6 +1,16 @@
 {
+  "name": "md-to-visual",
+  "version": "1.0.0",
+  "description": "Convert Markdown files into images",
+  "bin": {
+    "md2img": "./md2png.js"
+  },
   "dependencies": {
     "markdown-it": "^14.1.0",
     "puppeteer": "^24.10.0"
-  }
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT"
 }
